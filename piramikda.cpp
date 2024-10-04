@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cmath>
+#include <fctream>
+
 
 using namespace std;
 class piramida
