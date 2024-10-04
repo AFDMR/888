@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <fctream>
-
+gggggg
 
 using namespace std;
 class piramida
