@@ -3,6 +3,9 @@
 #include <fctream>
 gggggg
 
+
+99999
+
 using namespace std;
 class piramida
 {
